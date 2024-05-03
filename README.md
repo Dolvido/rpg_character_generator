@@ -24,12 +24,14 @@ Clone the repository and install the required packages:
 git clone https://github.com/yourusername/dungeons-fortress-character-generator.git
 cd dungeons-fortress-character-generator
 pip install -r requirements.txt
+```
 Usage
 To start the character generator and conversational AI:
 
-bash
-Copy code
+```bash
 python character_generator.py
+```
+
 Follow the on-screen prompts to interact with the AI. Enter queries and the AI will respond based on the generated character's background and the ongoing conversation context.
 
 How It Works
