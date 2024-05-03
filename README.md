@@ -1,6 +1,6 @@
-# Dungeons & Fortress Character Generator
+# Roleplaying Game Character Generator
 
-The Dungeons & Fortress Character Generator is an innovative tool designed to enhance role-playing gaming experiences by automatically generating complex characters and managing dynamic, context-aware conversations during gameplay. Built with Python and leveraging the power of LangChain and Ollama's language models, this tool creates characters for Dungeons & Dragons style games and supports ongoing character-driven interactions.
+The Roleplaying Game Character Generator is a new tool designed to enhance role-playing gaming experiences by automatically generating complex characters and managing dynamic, context-aware conversations during gameplay. Built with Python and leveraging the power of LangChain and Ollama's language models, this tool creates characters for Dungeons & Dragons style games and supports ongoing character-driven interactions.
 
 ## Features
 
