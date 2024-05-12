@@ -2,6 +2,8 @@
 
 The Roleplaying Game Character Generator is a new tool designed to enhance role-playing gaming experiences by automatically generating complex characters and managing dynamic, context-aware conversations during gameplay. Built with Python and leveraging the power of LangChain and Ollama's language models, this tool creates characters for Dungeons & Dragons style games and supports ongoing character-driven interactions.
 
+Creates the character then stands up a conversation interface to interact with whoever gets generated in character.
+
 ## Features
 
 - **Character Generation:** Automatically generates detailed characters, including stats, equipment, and background stories.
@@ -50,8 +52,3 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 License
 Distributed under the MIT License. See LICENSE for more information.
-
-Contact
-X - @dolvido1 - dolvido@protonmail.com
-
-Project Link: https://github.com/dolvido/dungeons-fortress-character-generator
